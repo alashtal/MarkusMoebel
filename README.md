@@ -1,5 +1,4 @@
 # MarkusMoebel
- :say_no_evil:
 <h1 align="center">Coding Challenge</h1>  :see_no_evil:
 
 <img src="Moe_tran.png" width="190" height="120">
